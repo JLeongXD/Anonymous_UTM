@@ -14,3 +14,4 @@ A secure and anonymous confession platform will be developed for university stud
    ![image1](./public/image.png)
 
 2. Press “How it works” to understand the rule.
+![image2](./public/public/photo_4_2025-12-06_02-46-47.jpg)

@@ -1,0 +1,1 @@
+export const BOT_LINK = "https://t.me/LeongConfession_bot";

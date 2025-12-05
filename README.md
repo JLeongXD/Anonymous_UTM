@@ -11,4 +11,4 @@ A secure and anonymous confession platform will be developed for university stud
 ## **STEP TO USE ANONYMOUS_UTM**
 1. Open the link
    https://anonymous-utm-jianleong615-4001-jianleong615-4001s-projects.vercel.app?_vercel_share=xz5Hg035vIx709A7rPO3Z9euTdYTq2e7
-   ![image1](public/image.png)
+   ![image1](./public/image.png)

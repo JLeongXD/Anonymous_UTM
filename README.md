@@ -22,7 +22,17 @@ A secure and anonymous confession platform will be developed for university stud
 **4. You will be linked to the telegram bot in Telegram."**
     ![image](./public/photo_2_2025-12-06_02-46-47.jpg) 
 ---
-**5.	Click “START”"**
+**5.	Click “START”**
     ![image](./public/photo_1_2025-12-06_02-48-25.jpg) 
-
-
+---
+**6.	Choose Anonymous Mode, if you don’t want to show your identity. Your message will be shown in anonymous mode in the channel. https://t.me/MatchaConfession**
+   ![image](./public/photo_3_2025-12-06_02-48-25.jpg) 
+   ![image](./public/photo_4_2025-12-06_02-48-25.jpg) 
+---
+**7.	Choose Named Mode and send message, if you want to show your identity. Your message will be shown in anonymous mode in the channel. https://t.me/MatchaConfession**
+   ![image](./public/photo_6_2025-12-06_02-48-25.jpg) 
+   ![image](./public/photo_5_2025-12-06_02-48-25.jpg) 
+---
+**8.	If you submit image that contain Nudity, Genitals, Pornography, Blood, Gore, Extreme Violence, your message will be detected by AI and cannot be posted in the channel.**
+   ![image](./public/photo_8_2025-12-06_02-48-25.jpg) 
+---

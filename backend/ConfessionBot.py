@@ -9,7 +9,8 @@ import google.generativeai as genai
 # ====================================================================
 load_dotenv() #read .env file
 
-#从.env 拿key，id，token等
+#从.env 拿key，id，token等123
+
 try:
     API_ID = int(os.getenv("API_ID"))
     API_HASH = os.getenv("API_HASH")
